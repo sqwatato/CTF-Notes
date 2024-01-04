@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4b7ab64511078276",
+            "id": "24efdb4e238bfdf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireshark.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wireshark.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wireshark.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wireshark.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b7ab64511078276",
+  "active": "24efdb4e238bfdf2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Wireshark.md",
-    "pcap.md",
     "Writeups/PicoCTF/Operation Orchid.md",
+    "README.md",
+    "Wireshark.md",
+    "Untitled",
+    "pcap.md",
     "Writeups/PicoCTF/Disk, disk, sleuth! II.md",
     "Notes/Cryptography/openssl.md",
     "Notes/Cryptography/Encode Decode Algos/AES.md",
@@ -187,7 +188,6 @@
     "Writeups/PicoCTF/keygenme-py.md",
     "Writeups/PicoCTF/vault-door-training.md",
     "Writeups/PicoCTF/Lets Warm Up.md",
-    "Notes/Web Exploitation/Inspect.md",
     "Notes/General",
     "Notes/Cryptography/Encode Decode Algos",
     "Notes/Cryptography/Formats",
@@ -197,7 +197,6 @@
     "Notes/Forensics",
     "Notes/Binary Exploitation",
     "Notes/Web Exploitation",
-    "Notes/Cryptography",
-    "Notes/Reverse Engineering"
+    "Notes/Cryptography"
   ]
 }
