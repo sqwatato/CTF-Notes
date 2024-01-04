@@ -159,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24efdb4e238bfdf2",
+  "active": "174d22b0be957406",
   "lastOpenFiles": [
+    "Notes/Forensics/Vocab",
     "Writeups/PicoCTF/Operation Orchid.md",
     "README.md",
-    "Wireshark.md",
+    "Notes/Forensics/Wireshark.md",
     "Untitled",
-    "pcap.md",
+    "Notes/Forensics/Vocab/pcap.md",
     "Writeups/PicoCTF/Disk, disk, sleuth! II.md",
     "Notes/Cryptography/openssl.md",
     "Notes/Cryptography/Encode Decode Algos/AES.md",
