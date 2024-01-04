@@ -1,0 +1,3 @@
+- Connect to server
+- `nc <name of computer> <port>`
+	- `Ex: nc saturn.picoctf.net 64605`

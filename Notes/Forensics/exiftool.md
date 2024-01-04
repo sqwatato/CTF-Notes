@@ -1,0 +1,2 @@
+- `exiftool img.jpg`
+	- Read metadata from image

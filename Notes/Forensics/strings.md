@@ -1,0 +1,4 @@
+- Finds printable characters from binary file 
+- `strings <image/file>`
+	- `-a` searches whole file, not just specific data parts
+	- `-n <number>` min length for it to print to terminal

@@ -1,0 +1,3 @@
+- upzip .gz
+
+- `gunzip <.gz>`

@@ -1,0 +1,3 @@
+- Used to encode binary data as printable text
+	- all in ascii char, can be identified if it ends with `=` since it's use for padding
+- use [[CyberChef]] to encode/decode![[Screenshot 2024-01-01 at 10.53.41 PM.png]]

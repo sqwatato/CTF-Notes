@@ -1,0 +1,2 @@
+- pcap files store captured network traffic data
+- Use [[Wireshark]] to open

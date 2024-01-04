@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "ef90eb423d025773",
+    "type": "split",
+    "children": [
+      {
+        "id": "f66a97b3d221a246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a9a0cf4685a2961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeups/PicoCTF/Operation Orchid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b7ab64511078276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wireshark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2249fe78c6f7bab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8b5098e8da7805a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "174d22b0be957406",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3d4a4a5f620c80c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf6bf66da8e000d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b105fe5e625e88fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "77dd6f78d865d4ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "752e6f786f567ecc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wireshark.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "878bbcea8fa3956f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wireshark.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58c8d1853859ab0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a8ab43b9b76643b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wireshark.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b7ab64511078276",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Wireshark.md",
+    "pcap.md",
+    "Writeups/PicoCTF/Operation Orchid.md",
+    "Writeups/PicoCTF/Disk, disk, sleuth! II.md",
+    "Notes/Cryptography/openssl.md",
+    "Notes/Cryptography/Encode Decode Algos/AES.md",
+    "Writeups/PicoCTF/Warmed Up.md",
+    "Notes/Cryptography/Vocab/Symmetrical Encryption Algorithm.md",
+    "Notes/Cryptography/Vocab/Block Cipher.md",
+    "Notes/Cryptography/Vocab",
+    "Notes/Cryptography/Untitled.md",
+    "Notes/Forensics/fls.md",
+    "Writeups/PicoCTF/Sleuthkit Apprentice.md",
+    "Writeups/PicoCTF/Sleuthkit Intro.md",
+    "Notes/Forensics/Sleuthkit.md",
+    "Writeups/PicoCTF/Glory of the Garden.md",
+    "Notes/Forensics/strings.md",
+    "Notes/Forensics/mmls.md",
+    "Writeups/PicoCTF/2Warm.md",
+    "Notes/Tools/CyberChef.md",
+    "Notes/General/gunzip.md",
+    "Writeups/PicoCTF/The Numbers.md",
+    "Writeups/PicoCTF/keygenme-py.md",
+    "Writeups/PicoCTF/vault-door-training.md",
+    "Writeups/PicoCTF/Lets Warm Up.md",
+    "Notes/Web Exploitation/Inspect.md",
+    "Notes/General",
+    "Notes/Cryptography/Encode Decode Algos",
+    "Notes/Cryptography/Formats",
+    "zMisc Files/Screenshot 2024-01-01 at 10.53.41 PM.png",
+    "zMisc Files",
+    "Untitled.canvas",
+    "Notes/Forensics",
+    "Notes/Binary Exploitation",
+    "Notes/Web Exploitation",
+    "Notes/Cryptography",
+    "Notes/Reverse Engineering"
+  ]
+}
