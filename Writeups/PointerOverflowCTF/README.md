@@ -1,0 +1,1 @@
+SPOILER there are answers in there since it is supposed to be hidden by obsidian :/

@@ -1,0 +1,2 @@
+- https://fotoforensics.com/analysis.php?id=1eeead1953598312d07b200cbc6d11093e66c33b.358717
+- quick easy flag checks for images

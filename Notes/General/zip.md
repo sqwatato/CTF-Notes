@@ -1,0 +1,6 @@
+- work with zip files
+- `zip -r <end file name like file.zip> <folder>`
+	- zip up stuff
+- `zip --encrypt -r <zip file> <folder>`
+	- zip up and encrypt with password
+- `unzip` obv undo zip

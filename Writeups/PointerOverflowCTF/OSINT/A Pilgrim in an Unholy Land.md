@@ -4,7 +4,7 @@
 
 https://pointeroverflowctf.com/challenges/
 
-1.  Reverse image search, articles will point to his website [www.airplanehome.com](www.airplanehome.com), there u can find his number 1-503-628-2936
+1.  Reverse image search, articles will point to his website  www.airplanehome.com, there u can find his number 1-503-628-2936
 2. With his number, the lat long will be 15.036282936N 15.036282936W
 3. NW of it is Beli Diori, so search name Deli Biori on FB and you will find Delilah Biori [https://www.facebook.com/delilah.biori](https://www.facebook.com/delilah.biori), who (need to be logged in to see) is from Lae, Papua New Guinea
 4. In Lae, you need to find the Brian Bell Plaza and inside will match the picture. Looking around, you will see an ad for Ultimate Ears [https://us.ultimateears.com/pages/about-us](https://us.ultimateears.com/pages/about-us), going to their website you will find the state California and the band Van Halen

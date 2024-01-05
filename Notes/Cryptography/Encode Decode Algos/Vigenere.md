@@ -1,0 +1,7 @@
+- example: `I LOVE PITTSBURGH` (from picoCTF primer lol)
+- remove spaces from plaintext
+	- `ILOVEPITTSBURGH`
+- with key `PICOCTF`, repeating the characters if needed to fit length, we end up with the key `PICOCTFPICOCTFP`
+- with a as 0 and z as 25, you can add the plaintext characters with the key characters and mode 26 and convert back to characters to get the encrypted message
+- [https://www.simonsingh.net/The_Black_Chamber/vigenere_cracking_tool.html](https://www.simonsingh.net/The_Black_Chamber/vigenere_cracking_tool.html)
+- 

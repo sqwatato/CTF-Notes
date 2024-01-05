@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "f66a97b3d221a246",
+        "id": "12b5c6b00a889c2a",
         "type": "tabs",
         "children": [
           {
-            "id": "8a9a0cf4685a2961",
+            "id": "b137289a58eff211",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writeups/PicoCTF/Operation Orchid.md",
+                "file": "Writeups/PointerOverflowCTF/Crypto/A Pale, Violet Light.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24efdb4e238bfdf2",
+            "id": "68907462ce990ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c07cd5be44215bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeups/PointerOverflowCTF/Crypto/Missing and Missed.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md"
               }
             }
           }
@@ -159,45 +171,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "174d22b0be957406",
+  "active": "68907462ce990ab0",
   "lastOpenFiles": [
-    "Notes/Forensics/Vocab",
-    "Writeups/PicoCTF/Operation Orchid.md",
-    "README.md",
-    "Notes/Forensics/Wireshark.md",
-    "Untitled",
-    "Notes/Forensics/Vocab/pcap.md",
-    "Writeups/PicoCTF/Disk, disk, sleuth! II.md",
-    "Notes/Cryptography/openssl.md",
-    "Notes/Cryptography/Encode Decode Algos/AES.md",
-    "Writeups/PicoCTF/Warmed Up.md",
-    "Notes/Cryptography/Vocab/Symmetrical Encryption Algorithm.md",
-    "Notes/Cryptography/Vocab/Block Cipher.md",
-    "Notes/Cryptography/Vocab",
-    "Notes/Cryptography/Untitled.md",
-    "Notes/Forensics/fls.md",
-    "Writeups/PicoCTF/Sleuthkit Apprentice.md",
-    "Writeups/PicoCTF/Sleuthkit Intro.md",
-    "Notes/Forensics/Sleuthkit.md",
-    "Writeups/PicoCTF/Glory of the Garden.md",
-    "Notes/Forensics/strings.md",
-    "Notes/Forensics/mmls.md",
-    "Writeups/PicoCTF/2Warm.md",
-    "Notes/Tools/CyberChef.md",
-    "Notes/General/gunzip.md",
-    "Writeups/PicoCTF/The Numbers.md",
-    "Writeups/PicoCTF/keygenme-py.md",
-    "Writeups/PicoCTF/vault-door-training.md",
-    "Writeups/PicoCTF/Lets Warm Up.md",
-    "Notes/General",
-    "Notes/Cryptography/Encode Decode Algos",
-    "Notes/Cryptography/Formats",
+    "Notes/Tools/FotoForensics.md",
+    "Writeups/PointerOverflowCTF/Crypto/Missing and Missed.md",
+    "Writeups/PointerOverflowCTF/Crypto/A Pale, Violet Light.md",
+    "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md",
+    "Writeups/PointerOverflowCTF/Forensics/If You Don't, Remember Me.md",
+    "Writeups/PointerOverflowCTF/Untitled",
+    "Writeups/PointerOverflowCTF/Forensics",
+    "Writeups/PointerOverflowCTF/OSINT",
+    "Writeups/PointerOverflowCTF/Misc",
+    "Writeups/PicoCTF/Forensics/Operation Orchid.md",
+    "Writeups/PointerOverflowCTF/Crypto",
+    "Writeups/PicoCTF/General Skills/Obedient Cat.md",
+    "Writeups/PicoCTF/General Skills/Nice netcat....md",
+    "Writeups/PicoCTF/Reverse Engineering/keygenme-py.md",
+    "Writeups/PicoCTF/Web Exploitation/Insp3ct0r.md",
+    "Writeups/PicoCTF/Forensics/information.md",
+    "Writeups/PicoCTF/Reverse Engineering/crackme-py.md",
+    "Writeups/PicoCTF/General Skills/2Warm.md",
+    "Writeups/PicoCTF/Binary Exploitation",
+    "Writeups/PicoCTF/General Skills",
+    "Writeups/PicoCTF/Forensics",
+    "Writeups/PicoCTF/Reverse Engineering",
+    "Writeups/PicoCTF/Web Exploitation",
+    "Writeups/PointerOverflowCTF/Crypto/Unquestioned and Unrestrained.md",
+    "Notes/Cryptography/Encode Decode Algos/RSA.md",
+    "Writeups/PointerOverflowCTF/OSINT/A Pilgrim in an Unholy Land.md",
+    "www.airplanehome.com.md",
+    "Notes/Cryptography/Hashing Algos/SHA2.md",
+    "Notes/Binary Exploitation/Binary Exploitation.md",
+    "Notes/Binary Exploitation/Vocab/Stack Overflow Attack.md",
+    "Notes/Binary Exploitation/Vocab/Payload.md",
+    "Notes/Web Exploitation/Blind SQL Injection.md",
+    "Notes/Web Exploitation/SQL Injection.md",
+    "Notes/Web Exploitation/SQL.md",
+    "Notes/Cryptography/Vocab/Hashing.md",
+    "Writeups/Unfinished T-T/Wireshark doo dooo do doo....md",
+    "zMisc Files/Screenshot 2024-01-03 at 10.38.54 PM.png",
+    "zMisc Files/Screenshot 2024-01-03 at 6.48.21 PM.png",
+    "zMisc Files/Screenshot 2024-01-03 at 6.41.38 PM.png",
+    "zMisc Files/Screenshot 2024-01-03 at 6.41.51 PM.png",
     "zMisc Files/Screenshot 2024-01-01 at 10.53.41 PM.png",
-    "zMisc Files",
-    "Untitled.canvas",
-    "Notes/Forensics",
-    "Notes/Binary Exploitation",
-    "Notes/Web Exploitation",
-    "Notes/Cryptography"
+    "Untitled.canvas"
   ]
 }
