@@ -1,4 +1,4 @@
->[!danger] Answer
+>[!danger]- Answer
 >poctf{uwsp_7h3_w0rld_h4d_17_f1257}
 - first i tried using [[strings]] on the image, but nothing stood out
 - i then used [[exiftool]] and found a user comment which looked suspicious

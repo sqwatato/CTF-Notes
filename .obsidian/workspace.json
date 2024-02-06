@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "12b5c6b00a889c2a",
+        "id": "61b895e7abedee4d",
         "type": "tabs",
         "children": [
           {
-            "id": "b137289a58eff211",
+            "id": "11051f3c1a970595",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/PointerOverflowCTF/Crypto/A Pale, Violet Light.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68907462ce990ab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c07cd5be44215bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writeups/PointerOverflowCTF/Crypto/Missing and Missed.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,44 +138,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68907462ce990ab0",
+  "active": "11051f3c1a970595",
   "lastOpenFiles": [
-    "Notes/Tools/FotoForensics.md",
+    "Writeups/PicoCTF/Web Exploitation/logon.md",
+    "zMisc Files/Screenshot 2024-02-05 at 3.24.21 PM.png",
+    "zMisc Files/Screenshot 2024-02-05 at 3.28.29 PM.png",
+    "Notes/Forensics/Tools/mpv.md",
+    "Notes/Forensics/Tools/exiftool.md",
+    "Notes/Forensics/Tools/ffmpeg.md",
+    "Notes/Forensics/Vocab/mkv.md",
+    "Notes/General/Tools/tar.md",
+    "Writeups/PicoCTF/Cryptography/Easy1.md",
+    "Notes/Cryptography/Encode Decode Algos/Vigenere.md",
+    "Notes/Cryptography/Encode Decode Algos/ROT13.md",
+    "Writeups/PicoCTF/General Skills/Static ain't always noise.md",
+    "Notes/Unfinished Notes/xxd.md",
+    "Notes/Unfinished Notes/scalpel.md",
+    "Notes/Unfinished Notes/xpdf.md",
+    "Notes/Forensics/Tools/fdisk.md",
+    "Notes/Unfinished Notes",
+    "Notes/General/Vocab/Linux.md",
+    "Notes/General/Vocab",
+    "Notes/Forensics/Tools/mount.md",
+    "Notes/General/Tools/grep.md",
+    "Notes/Web Exploitation/login.md",
+    "Notes/Web Exploitation/Vocab/DS_Store.md",
+    "Writeups/PicoCTF/Web Exploitation/Scavenger Hunt.md",
+    "Notes/Web Exploitation/Vocab/Apache Server.md",
+    "Notes/Web Exploitation/Vocab/htaccess.md",
+    "Notes/Web Exploitation/Vocab/Web Server.md",
     "Writeups/PointerOverflowCTF/Crypto/Missing and Missed.md",
-    "Writeups/PointerOverflowCTF/Crypto/A Pale, Violet Light.md",
-    "Writeups/PointerOverflowCTF/Forensics/A Petty Wage in Regret.md",
-    "Writeups/PointerOverflowCTF/Forensics/If You Don't, Remember Me.md",
+    "Notes/Web Exploitation/Methods/Blind SQL Injection.md",
+    "Notes/Web Exploitation/Methods",
+    "Notes/Web Exploitation/Tools",
+    "Notes/Web Exploitation/Vocab",
+    "Notes/General/Tools",
+    "Notes/Cryptography/Tools",
+    "Notes/Forensics/Tools",
     "Writeups/PointerOverflowCTF/Untitled",
     "Writeups/PointerOverflowCTF/Forensics",
-    "Writeups/PointerOverflowCTF/OSINT",
-    "Writeups/PointerOverflowCTF/Misc",
-    "Writeups/PicoCTF/Forensics/Operation Orchid.md",
-    "Writeups/PointerOverflowCTF/Crypto",
-    "Writeups/PicoCTF/General Skills/Obedient Cat.md",
-    "Writeups/PicoCTF/General Skills/Nice netcat....md",
-    "Writeups/PicoCTF/Reverse Engineering/keygenme-py.md",
-    "Writeups/PicoCTF/Web Exploitation/Insp3ct0r.md",
-    "Writeups/PicoCTF/Forensics/information.md",
-    "Writeups/PicoCTF/Reverse Engineering/crackme-py.md",
-    "Writeups/PicoCTF/General Skills/2Warm.md",
-    "Writeups/PicoCTF/Binary Exploitation",
-    "Writeups/PicoCTF/General Skills",
-    "Writeups/PicoCTF/Forensics",
-    "Writeups/PicoCTF/Reverse Engineering",
-    "Writeups/PicoCTF/Web Exploitation",
-    "Writeups/PointerOverflowCTF/Crypto/Unquestioned and Unrestrained.md",
-    "Notes/Cryptography/Encode Decode Algos/RSA.md",
-    "Writeups/PointerOverflowCTF/OSINT/A Pilgrim in an Unholy Land.md",
-    "www.airplanehome.com.md",
-    "Notes/Cryptography/Hashing Algos/SHA2.md",
-    "Notes/Binary Exploitation/Binary Exploitation.md",
-    "Notes/Binary Exploitation/Vocab/Stack Overflow Attack.md",
-    "Notes/Binary Exploitation/Vocab/Payload.md",
-    "Notes/Web Exploitation/Blind SQL Injection.md",
-    "Notes/Web Exploitation/SQL Injection.md",
-    "Notes/Web Exploitation/SQL.md",
-    "Notes/Cryptography/Vocab/Hashing.md",
-    "Writeups/Unfinished T-T/Wireshark doo dooo do doo....md",
     "zMisc Files/Screenshot 2024-01-03 at 10.38.54 PM.png",
     "zMisc Files/Screenshot 2024-01-03 at 6.48.21 PM.png",
     "zMisc Files/Screenshot 2024-01-03 at 6.41.38 PM.png",

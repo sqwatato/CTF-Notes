@@ -1,0 +1,2 @@
+- `mpv --sub-ass-style-overrides=FontName=FakeFont chal.mkv`
+	- override with diff font

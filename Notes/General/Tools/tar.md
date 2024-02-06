@@ -1,0 +1,3 @@
+- basically zip but diff
+- `tar -xvf <.tar>`
+- `tar -xzvf <.tar.gz>`

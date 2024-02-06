@@ -1,0 +1,2 @@
+- `fdisk –l /dev/sda`
+- view [[Linux]] partitions on disk viewed with [[mount]]

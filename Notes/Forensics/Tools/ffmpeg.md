@@ -1,0 +1,2 @@
+- `ffmpeg -i <filename>.mkv`
+	- gives cool stuff about [[Notes/Forensics/Vocab/mkv]]

@@ -1,0 +1,2 @@
+- [[Linux]] cmd, 
+- `mount | grep sd` will find all disks and mount points, uses [[grep]]
