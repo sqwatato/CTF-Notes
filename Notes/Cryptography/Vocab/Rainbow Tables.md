@@ -1,0 +1,2 @@
+- tables of passwords with precomputed hashes
+- [[Hashing]]

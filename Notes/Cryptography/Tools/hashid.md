@@ -1,0 +1,2 @@
+- `hashid -m <hash>`
+	- tries to figure out what hash type it is
