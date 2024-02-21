@@ -1,0 +1,3 @@
+- shell archive file
+- like zip or tar, collection of files that can be unpacked by sh
+- `sh < <shar_file_name>`

@@ -1,0 +1,2 @@
+- prints all the nest directory/files in the path
+- `find <directory>`

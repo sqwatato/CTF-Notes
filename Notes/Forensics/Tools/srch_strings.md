@@ -1,0 +1,2 @@
+- display printable strings in files, like [[strings]] but for img stuff?
+- 

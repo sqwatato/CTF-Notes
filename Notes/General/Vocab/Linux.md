@@ -1,1 +1,2 @@
 - I LOVE LINUX
+- [[Linux Permissions]]

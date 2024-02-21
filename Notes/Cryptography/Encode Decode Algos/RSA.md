@@ -20,3 +20,5 @@
 1. https://www.cs.drexel.edu/~popyack/IntroCS/HW/RSAWorksheet.html
 2. https://www.cryptool.org/en/cto/rsa-step-by-step
 	1. this one nice
+3. http://factordb.com/index.php
+	1. for prime factorization

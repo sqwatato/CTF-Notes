@@ -2,4 +2,4 @@
 - so having a unknown key needed to decrypt something keeps it secure since it's fine to know how the algorithm works because u need the key
 
 ##### Examples
-[[Vigenere]]
+[[Notes/Cryptography/Encode Decode Algos/Vigenere]]
