@@ -138,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16144ff764ac4ba7",
+  "active": "174d22b0be957406",
   "lastOpenFiles": [
     "Writeups/PicoCTF/General Skills/chrono.md",
-    "cron.md",
+    "Notes/General/Vocab/cron.md",
     "Notes/Good Links.md",
     "Writeups/PicoCTF/Cryptography/morse-code.md",
     "Writeups/PicoCTF/Reverse Engineering/patchme.py.md",
